@@ -29,7 +29,7 @@ Users should be able to:
 ### Links
 
 - [sunnyside agency landing page code](https://github.com/abok-cymk/sunnyside-agency-landing-page-main)
-- [sunnyside agency landing page live url](https://your-live-site-url.com)
+- [sunnyside agency landing page live url](https://sunnyside-agency-landing-page-main-sepia-nine.vercel.app/)
 
 ## My process
 
