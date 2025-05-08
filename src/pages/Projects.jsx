@@ -1,6 +1,7 @@
 const Projects = () => {
   return (
     <section id="projects" className="grid grid-cols-2 lg:grid-cols-4">
+      <h2 className="sr-only">Projects</h2>
       <picture>
         <source
           media="(min-width: 1024px)"
