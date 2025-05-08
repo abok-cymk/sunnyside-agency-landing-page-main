@@ -6,6 +6,7 @@ const MobileMenu = forwardRef(({ onClose }, ref) => {
   };
   return (
     <div
+      id="mobile-menu"
       ref={ref}
       role="menu"
       aria-label="Mobile navigation"
