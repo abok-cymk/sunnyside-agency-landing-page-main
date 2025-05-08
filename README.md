@@ -28,8 +28,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- [sunnyside agency landing page code](https://github.com/abok-cymk/sunnyside-agency-landing-page-main)
+- [sunnyside agency landing page live url](https://your-live-site-url.com)
 
 ## My process
 

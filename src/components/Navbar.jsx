@@ -41,7 +41,7 @@ const Navbar = () => {
         <li>
           <a href="#projects">Projects</a>
         </li>
-        <li className="font-fraunces text-black bg-white rounded-full px-4 py-2 uppercase tracking-widest text-xs">
+        <li className="font-fraunces text-black bg-white hover:shadow hover:bg-white/40 hover:text-white/90 rounded-full px-4 py-2 uppercase tracking-widest text-xs">
           <a href="#contacts">Contact</a>
         </li>
       </ul>
